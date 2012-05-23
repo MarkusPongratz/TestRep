@@ -18,7 +18,7 @@ void MainWindow::on_pushButton_clicked()
 {
     QMessageBox msg;
 
-    msg.setText("hallo welt");
+    msg.setText("hello world");
 
     msg.exec();
 }
