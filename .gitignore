@@ -64,6 +64,11 @@ local.properties
 *.vspscc
 .builds
 **/*.dotCover
+Makefile
+*.[Dd]ebug
+*.[Rr]elease
+*.o
+*.exe
 
 ## TODO: If you have NuGet Package Restore enabled, uncomment this
 #**/packages/ 
